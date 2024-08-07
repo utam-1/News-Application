@@ -39,7 +39,7 @@ so before proceeding with the below steps.
 
 To get started with the News Headlines Application:
 
-1. Clone this repository: `git clone xyz `
+1. Clone this repository: `git clone https://github.com/utam-1/News-application `
 
 2. Set up the backend:
 ```
