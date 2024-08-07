@@ -43,7 +43,7 @@ To get started with the News Headlines Application:
 
 2. Set up the backend:
 ```
-cd news-website/backend
+cd backend
 python -m venv venv
 source venv/bin/activate  # On Windows, use venv\Scripts\activate
 pip install -r requirements.txt
